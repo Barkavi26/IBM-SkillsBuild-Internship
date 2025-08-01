@@ -35,27 +35,6 @@ This project utilizes key technologies and services to deliver a robust AI-drive
 * project.json: A configuration file for the project.
 * Barkavi's-sandbox.zip: The original zipped file containing the project's assets.
 
-## How to Run the Project
-
-To run this project, you will need a Python environment with Jupyter Notebook installed.
-
-1.  *Clone the repository:*
-    bash
-    git clone [https://github.com/Barkavi26/IBM-SkillsBuild-Internship.git](https://github.com/Barkavi26/IBM-SkillsBuild-Internship.git)
-    
-2.  *Navigate to the project directory:*
-    bash
-    cd IBM-SkillsBuild-Internship
-    
-3.  *Open the Jupyter Notebook:*
-    bash
-    jupyter notebook
-    
-    This command will open a browser window.
-4.  *Launch the notebook:* Click on notebook_RecipePrepAgent-wxnotebook_da_inuz0xvpzi.ipynb to open and run the code cells.
-
-*Note:* Ensure you have the necessary dependencies installed. You may need to run pip install [package-name] for any libraries used within the notebook.
-
 ## Author
 
 * *Barkavi26* - [Link to your GitHub profile](https://github.com/Barkavi26)
